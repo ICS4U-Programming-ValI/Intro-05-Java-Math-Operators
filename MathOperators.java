@@ -23,7 +23,7 @@ public final class MathOperators {
     }
 
     /**
-     * This is the main method that performs various math operations.
+     * This is the main method.
      *
      * @param args unused
      */
